@@ -8,7 +8,7 @@ namespace TS1C2021_Estructuras_Repetitivas
         {
             bool salir = false;
             int opcion = 0;
-
+            
             while (!salir)
             {
                 Console.WriteLine("");
